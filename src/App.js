@@ -58,10 +58,10 @@ class QuoteText extends React.Component {
               New Quote
             </button>
             <a href="#" id="tweet-quote">
-            <button className="btn btn-success">Tweet Quote  <i class="fa fa-twitter"/></button>
+            <button className="btn btn-success"><i class="fa fa-twitter"/>  Tweet Quote</button>
             </a>
             <a href="http://ahaf-dev.com" id="ahaf">
-            <button className="btn btn-success">Back to ahaf-dev</button>
+            <button className="btn btn-success"><i class="fas fa-backward"></i>Back to ahaf-dev</button>
             </a>
           </p>
         </div>
